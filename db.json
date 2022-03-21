@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Aditi",
+      "gender": "Female",
+      "department": "head",
+      "role": "HR",
+      "salary": "17832",
+      "status": false,
+      "id": 1
+    },
+    {
+      "name": "Shreya",
+      "gender": "Female",
+      "department": "Head",
+      "role": "HR",
+      "salary": "17877",
+      "status": false,
+      "id": 2
+    }
+  ]
+}
